@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Comunidad Catariri</name>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>cusa aljaña</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -66.9069495052099,-19.2871781088471,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Laqha chuto</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -66.9066755846143,-19.2937226607766,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ñuñusamaña</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -66.9092464819551,-19.3044033162819,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>qaqapara</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -66.9073032215238,-19.3106329811159,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>jaquejiwata</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -66.8987583741546,-19.3003061887604,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>soraga callejona</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -66.8919341638684,-19.2953472868182,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jawira taqui loma 1</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -66.8876027315855,-19.293322356013,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jawira taqui loma2</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -66.887326464057,-19.2913803102323,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>jawira taqui loma 3</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -66.8851310759783,-19.2909948729538,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>catariri jantha</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -66.8845896050334,-19.2892838116153,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>hitotripartito umachullu catariri ichocota y pacota</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -66.8817055597901,-19.2838770946854,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>sicacatariri</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -66.8822000920773,-19.2799718688182,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>huaylla huaylla chuto</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -66.8832344189286,-19.272087712595,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>waca peken chuto</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -66.88442196697,-19.2683967894432,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>tawaken satañpa</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -66.8855474889278,-19.2648507410836,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>hito tripartito  catariri chhijllapata pacota</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -66.8849208578468,-19.2666022529581,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Colindancia burru sayaña y fernando montoya</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -66.8911989033222,-19.2675615570048,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>wintu uma allita</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -66.8950549140573,-19.2684325533745,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Machaca uma allita</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -66.9009661674499,-19.2718123679132,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>waca samiri phujru</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -66.9045492634177,-19.2750569749268,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ladrillo purkaña</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -66.9077860191464,-19.2793537965785,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
