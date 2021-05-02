@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+   <name>Alfredo Choque chijllapata</name>
+   <ExtendedData>
+       <Data name="measureid">
+           <value>72</value>
+       </Data>
+       <Data name="measuretype">
+           <value>1</value>
+       </Data>
+       <Data name="maptype">
+           <value>4</value>
+       </Data>
+       <Data name="unittype">
+           <value>square meter</value>
+       </Data>
+       <Data name="units">
+           <value>48573.70109484511</value>
+       </Data>
+       <Data name="perimeter">
+           <value>0.0</value>
+       </Data>
+       <Data name="zoomlevel">
+           <value>17.0</value>
+       </Data>
+       <Data name="color">
+           <value>-15220738</value>
+       </Data>
+       <Data name="tagname">
+           <value>Alfredo choque chijllapata</value>
+       </Data>
+       <Data name="tagshow">
+           <value>1</value>
+       </Data>
+   </ExtendedData>
+   <Style>
+       <LineStyle>
+           <color>FF17BFFE</color>
+           <width>5</width>
+       </LineStyle>
+       <PolyStyle>
+           <outline>1</outline>
+           <fill>1</fill>
+           <color>59FEBF17</color>
+       </PolyStyle>
+   </Style>
+   <description></description>
+   <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+-66.9148553162813,-19.2524877128076,0
+-66.9148373789825,-19.2522498433921,0
+-66.9148194417357,-19.2520119739749,0
+-66.9140553480662,-19.2521458662154,0
+-66.9132912531495,-19.252279755284,0
+-66.9118700192204,-19.2524612882953,0
+-66.910448782146,-19.2526428103324,0
+-66.9095753883588,-19.2527410934859,0
+-66.908701993525,-19.252839372495,0
+-66.9079253268425,-19.2529376550972,0
+-66.9071486592293,-19.2530359344221,0
+-66.906290185268,-19.2531432382112,0
+-66.9054317101836,-19.2532505379962,0
+-66.9050401077679,-19.2532926361257,0
+-66.9046485051513,-19.2533347334221,0
+-66.9046642631093,-19.2535420564306,0
+-66.9046800211072,-19.2537493794377,0
+-66.9097676882592,-19.2531186164397,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>
