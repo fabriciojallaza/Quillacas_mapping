@@ -2,10 +2,10 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
 <Placemark>
-   <name>Pablo Garcia</name>
+   <name>Pablo García Jallaza 4 Jake jiwata</name>
    <ExtendedData>
        <Data name="measureid">
-           <value>12</value>
+           <value>62</value>
        </Data>
        <Data name="measuretype">
            <value>1</value>
@@ -17,33 +17,33 @@
            <value>square meter</value>
        </Data>
        <Data name="units">
-           <value>130605.31069561288</value>
+           <value>22450.41355007161</value>
        </Data>
        <Data name="perimeter">
            <value>0.0</value>
        </Data>
        <Data name="zoomlevel">
-           <value>21.0</value>
+           <value>17.0</value>
        </Data>
        <Data name="color">
-           <value>-15220738</value>
+           <value>-117737</value>
        </Data>
        <Data name="tagname">
-           <value></value>
+           <value>Pablo García Jallaza 4</value>
        </Data>
        <Data name="tagshow">
-           <value>0</value>
+           <value>1</value>
        </Data>
    </ExtendedData>
    <Style>
        <LineStyle>
-           <color>FF17BFFE</color>
+           <color>FFFE3417</color>
            <width>5</width>
        </LineStyle>
        <PolyStyle>
            <outline>1</outline>
            <fill>1</fill>
-           <color>59FEBF17</color>
+           <color>591734FE</color>
        </PolyStyle>
    </Style>
    <description></description>
@@ -51,18 +51,14 @@
       <outerBoundaryIs>
         <LinearRing>
           <coordinates>
--66.8943773210049,-19.2896727339155,0
--66.8943394348271,-19.2897787459059,0
--66.8943015486002,-19.2898847578885,0
--66.8930653824989,-19.289484605635,0
--66.8918292224407,-19.2890844450658,0
--66.8917722255746,-19.2893010582582,0
--66.8917152285576,-19.289517671433,0
--66.8875336039615,-19.2871393729474,0
--66.8833521008492,-19.2847609793179,0
--66.8834709565797,-19.2842877069894,0
--66.8835898116231,-19.283814434584,0
--66.8889834698205,-19.2867436633993,0
+-66.9067919254303,-19.2937495586901,0
+-66.9067952781978,-19.293443554822,0
+-66.9067986309528,-19.2931375509539,0
+-66.9053998545097,-19.2926177901056,0
+-66.9040010869503,-19.2920980186084,0
+-66.9038069623888,-19.2923644685099,0
+-66.9036128371954,-19.2926309182063,0
+-66.9052023758809,-19.2931902453241,0
           </coordinates>
         </LinearRing>
       </outerBoundaryIs>
