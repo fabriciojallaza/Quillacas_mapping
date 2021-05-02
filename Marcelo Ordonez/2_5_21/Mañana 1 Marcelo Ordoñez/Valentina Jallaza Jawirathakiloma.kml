@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+   <name>Valentina Jallaza</name>
+   <ExtendedData>
+       <Data name="measureid">
+           <value>10</value>
+       </Data>
+       <Data name="measuretype">
+           <value>1</value>
+       </Data>
+       <Data name="maptype">
+           <value>4</value>
+       </Data>
+       <Data name="unittype">
+           <value>square meter</value>
+       </Data>
+       <Data name="units">
+           <value>50926.59199015245</value>
+       </Data>
+       <Data name="perimeter">
+           <value>0.0</value>
+       </Data>
+       <Data name="zoomlevel">
+           <value>17.262812</value>
+       </Data>
+       <Data name="color">
+           <value>-15220738</value>
+       </Data>
+       <Data name="tagname">
+           <value></value>
+       </Data>
+       <Data name="tagshow">
+           <value>0</value>
+       </Data>
+   </ExtendedData>
+   <Style>
+       <LineStyle>
+           <color>FF17BFFE</color>
+           <width>5</width>
+       </LineStyle>
+       <PolyStyle>
+           <outline>1</outline>
+           <fill>1</fill>
+           <color>59FEBF17</color>
+       </PolyStyle>
+   </Style>
+   <description></description>
+   <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+-66.8918996304274,-19.2920359945519,0
+-66.8919190765032,-19.2915271424527,0
+-66.8919385224581,-19.2910182903513,0
+-66.8919192441408,-19.2915273006773,0
+-66.8918999657035,-19.2920363110013,0
+-66.8910056140649,-19.2915659099017,0
+-66.8901112675667,-19.2910955044491,0
+-66.8891059387235,-19.2905456714869,0
+-66.8881006166339,-19.2899958330244,0
+-66.8881966733504,-19.2898148215781,0
+-66.8882927298546,-19.2896338100816,0
+-66.887821666121,-19.2893643496853,0
+-66.8873506039381,-19.2890948880815,0
+-66.8873465806174,-19.2888029578115,0
+-66.8873425573111,-19.2885110275414,0
+-66.888941815709,-19.2894043853134,0
+-66.8905410915613,-19.290297729167,0
+-66.8912398054537,-19.29066228318,0
+-66.8919385224581,-19.2910268345361,0
+-66.8919190765027,-19.291531414545,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

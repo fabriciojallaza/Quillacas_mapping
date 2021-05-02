@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+   <name>Pablo Garcia</name>
+   <ExtendedData>
+       <Data name="measureid">
+           <value>12</value>
+       </Data>
+       <Data name="measuretype">
+           <value>1</value>
+       </Data>
+       <Data name="maptype">
+           <value>4</value>
+       </Data>
+       <Data name="unittype">
+           <value>square meter</value>
+       </Data>
+       <Data name="units">
+           <value>77934.0860959475</value>
+       </Data>
+       <Data name="perimeter">
+           <value>0.0</value>
+       </Data>
+       <Data name="zoomlevel">
+           <value>17.855757</value>
+       </Data>
+       <Data name="color">
+           <value>-15220738</value>
+       </Data>
+       <Data name="tagname">
+           <value></value>
+       </Data>
+       <Data name="tagshow">
+           <value>0</value>
+       </Data>
+   </ExtendedData>
+   <Style>
+       <LineStyle>
+           <color>FF17BFFE</color>
+           <width>5</width>
+       </LineStyle>
+       <PolyStyle>
+           <outline>1</outline>
+           <fill>1</fill>
+           <color>59FEBF17</color>
+       </PolyStyle>
+   </Style>
+   <description></description>
+   <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+-66.8943773210049,-19.2896727339155,0
+-66.8943394348271,-19.2897787459059,0
+-66.8943015486002,-19.2898847578885,0
+-66.8930653824989,-19.289484605635,0
+-66.8918292224407,-19.2890844450658,0
+-66.8917722255746,-19.2893010582582,0
+-66.8917152285576,-19.289517671433,0
+-66.8875336039615,-19.2871393729474,0
+-66.8833521008492,-19.2847609793179,0
+-66.8833576329091,-19.2846465777227,0
+-66.8833631649613,-19.2845321761274,0
+-66.8888701565311,-19.2871025375332,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>
