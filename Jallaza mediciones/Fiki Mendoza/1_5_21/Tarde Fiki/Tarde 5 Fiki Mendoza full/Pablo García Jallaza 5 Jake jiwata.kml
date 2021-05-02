@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+   <name>Pablo García Jallaza 5 Jake jiwata</name>
+   <ExtendedData>
+       <Data name="measureid">
+           <value>63</value>
+       </Data>
+       <Data name="measuretype">
+           <value>1</value>
+       </Data>
+       <Data name="maptype">
+           <value>4</value>
+       </Data>
+       <Data name="unittype">
+           <value>square meter</value>
+       </Data>
+       <Data name="units">
+           <value>16211.68383377073</value>
+       </Data>
+       <Data name="perimeter">
+           <value>0.0</value>
+       </Data>
+       <Data name="zoomlevel">
+           <value>17.0</value>
+       </Data>
+       <Data name="color">
+           <value>-117737</value>
+       </Data>
+       <Data name="tagname">
+           <value>Pablo García Jallaza 5</value>
+       </Data>
+       <Data name="tagshow">
+           <value>1</value>
+       </Data>
+   </ExtendedData>
+   <Style>
+       <LineStyle>
+           <color>FFFE3417</color>
+           <width>5</width>
+       </LineStyle>
+       <PolyStyle>
+           <outline>1</outline>
+           <fill>1</fill>
+           <color>591734FE</color>
+       </PolyStyle>
+   </Style>
+   <description></description>
+   <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+-66.9068244472146,-19.2931223614877,0
+-66.906829308726,-19.2928688868664,0
+-66.9068341702223,-19.2926154122449,0
+-66.9055406711363,-19.2921359963598,0
+-66.9042471796274,-19.2916565713686,0
+-66.9041211159663,-19.2918676433303,0
+-66.90399505198,-19.2920787152056,0
+-66.9054097450871,-19.292600543793,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

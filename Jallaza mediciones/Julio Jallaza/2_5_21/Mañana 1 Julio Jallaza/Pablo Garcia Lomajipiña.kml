@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+   <name>Pablo Garcia Lomajipiña</name>
+   <ExtendedData>
+       <Data name="measureid">
+           <value>57</value>
+       </Data>
+       <Data name="measuretype">
+           <value>1</value>
+       </Data>
+       <Data name="maptype">
+           <value>4</value>
+       </Data>
+       <Data name="unittype">
+           <value>square meter</value>
+       </Data>
+       <Data name="units">
+           <value>55865.489007098404</value>
+       </Data>
+       <Data name="perimeter">
+           <value>0.0</value>
+       </Data>
+       <Data name="zoomlevel">
+           <value>17.0</value>
+       </Data>
+       <Data name="color">
+           <value>-15220738</value>
+       </Data>
+       <Data name="tagname">
+           <value>Pablo Garcia</value>
+       </Data>
+       <Data name="tagshow">
+           <value>1</value>
+       </Data>
+   </ExtendedData>
+   <Style>
+       <LineStyle>
+           <color>FF17BFFE</color>
+           <width>5</width>
+       </LineStyle>
+       <PolyStyle>
+           <outline>1</outline>
+           <fill>1</fill>
+           <color>59FEBF17</color>
+       </PolyStyle>
+   </Style>
+   <description></description>
+   <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+-66.8905196338892,-19.2913913860028,0
+-66.8905186280635,-19.2918282448537,0
+-66.8905176222324,-19.2922651037046,0
+-66.8905176222324,-19.2924283911661,0
+-66.8905176222324,-19.2925916786276,0
+-66.8905342183679,-19.292915088104,0
+-66.890550814569,-19.2932384975789,0
+-66.8905690870331,-19.2939985997498,0
+-66.8905873596668,-19.2947587019189,0
+-66.8913092076375,-19.2951056835168,0
+-66.8920310586691,-19.2954526622783,0
+-66.8919943455625,-19.2937998652569,0
+-66.8919576331973,-19.2921470682282,0
+-66.8912386318836,-19.2917692285222,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

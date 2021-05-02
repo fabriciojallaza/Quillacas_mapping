@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name> NOGROUP_GeoMeasure_2021-05-01-20-07-38_bmacinfotech.kml </name>
+<Style id="BMPoly">
+<LineStyle><color>ff0000ff</color><width>1.2</width></LineStyle>
+<PolyStyle><color>FF00FF00</color><fill>1</fill></PolyStyle></Style><Placemark>
+<styleUrl>#BMPoly</styleUrl>
+<name> Edilberto Jallaza  </name><Polygon><outerBoundaryIs><LinearRing><tessellate> 1 </tessellate><coordinates>-66.90307807,-19.29325907,0 -66.90284237,-19.29362013,0 -66.89638328,-19.28963065,0 -66.89652175,-19.28920501,0 -66.90307807,-19.29325907,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document></kml>
