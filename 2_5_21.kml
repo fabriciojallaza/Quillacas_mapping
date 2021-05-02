@@ -2490,6 +2490,536 @@
             </LineString>
         </Placemark><!-- nogroup rene franz -->
 
+        <Placemark>
+            <name>Clemencia Pastorera</name>
+            <ExtendedData>
+                <Data name="measureid">
+                    <value>11</value>
+                </Data>
+                <Data name="measuretype">
+                    <value>1</value>
+                </Data>
+                <Data name="maptype">
+                    <value>4</value>
+                </Data>
+                <Data name="unittype">
+                    <value>square meter</value>
+                </Data>
+                <Data name="units">
+                    <value>21375.258643680343</value>
+                </Data>
+                <Data name="perimeter">
+                    <value>0.0</value>
+                </Data>
+                <Data name="zoomlevel">
+                    <value>17.0</value>
+                </Data>
+                <Data name="color">
+                    <value>-15220738</value>
+                </Data>
+                <Data name="tagname">
+                    <value></value>
+                </Data>
+                <Data name="tagshow">
+                    <value>0</value>
+                </Data>
+            </ExtendedData>
+            <Style>
+                <LineStyle>
+                    <color>FF17BFFE</color>
+                    <width>5</width>
+                </LineStyle>
+                <PolyStyle>
+                    <outline>1</outline>
+                    <fill>1</fill>
+                    <color>59FEBF17</color>
+                </PolyStyle>
+            </Style>
+            <description></description>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -66.8833578005433,-19.2847688909025,0
+                            -66.8833879753728,-19.2848878810472,0
+                            -66.8834181502461,-19.285006871187,0
+                            -66.8877002327232,-19.2874621617795,0
+                            -66.8919824436307,-19.2899173525943,0
+                            -66.8919906579011,-19.2898108659483,0
+                            -66.8919988721609,-19.289704379302,0
+                            -66.887678271232,-19.287236685889,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark><!-- chelo maniana -->
+
+        <Placemark>
+            <name>Heriberto Jallaza</name>
+            <ExtendedData>
+                <Data name="measureid">
+                    <value>6</value>
+                </Data>
+                <Data name="measuretype">
+                    <value>1</value>
+                </Data>
+                <Data name="maptype">
+                    <value>4</value>
+                </Data>
+                <Data name="unittype">
+                    <value>square meter</value>
+                </Data>
+                <Data name="units">
+                    <value>60797.44241005571</value>
+                </Data>
+                <Data name="perimeter">
+                    <value>0.0</value>
+                </Data>
+                <Data name="zoomlevel">
+                    <value>17.0</value>
+                </Data>
+                <Data name="color">
+                    <value>-15220738</value>
+                </Data>
+                <Data name="tagname">
+                    <value></value>
+                </Data>
+                <Data name="tagshow">
+                    <value>0</value>
+                </Data>
+            </ExtendedData>
+            <Style>
+                <LineStyle>
+                    <color>FF17BFFE</color>
+                    <width>5</width>
+                </LineStyle>
+                <PolyStyle>
+                    <outline>1</outline>
+                    <fill>1</fill>
+                    <color>59FEBF17</color>
+                </PolyStyle>
+            </Style>
+            <description></description>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -66.8920099362731,-19.2897040628482,0
+                            -66.891977749996,-19.2908795221821,0
+                            -66.8919455632567,-19.2920549815105,0
+                            -66.8928581818313,-19.2926006987594,0
+                            -66.8937708064914,-19.2931464114752,0
+                            -66.8939446486291,-19.2917660573151,0
+                            -66.8941184878349,-19.2903857029906,0
+                            -66.8930642098591,-19.2900448859438,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark><!-- chelo maniana -->
+
+        <Placemark>
+            <name>Marcial Ordoñez</name>
+            <ExtendedData>
+                <Data name="measureid">
+                    <value>8</value>
+                </Data>
+                <Data name="measuretype">
+                    <value>1</value>
+                </Data>
+                <Data name="maptype">
+                    <value>4</value>
+                </Data>
+                <Data name="unittype">
+                    <value>square meter</value>
+                </Data>
+                <Data name="units">
+                    <value>110741.24866829655</value>
+                </Data>
+                <Data name="perimeter">
+                    <value>0.0</value>
+                </Data>
+                <Data name="zoomlevel">
+                    <value>17.583633</value>
+                </Data>
+                <Data name="color">
+                    <value>-15220738</value>
+                </Data>
+                <Data name="tagname">
+                    <value></value>
+                </Data>
+                <Data name="tagshow">
+                    <value>0</value>
+                </Data>
+            </ExtendedData>
+            <Style>
+                <LineStyle>
+                    <color>FF17BFFE</color>
+                    <width>5</width>
+                </LineStyle>
+                <PolyStyle>
+                    <outline>1</outline>
+                    <fill>1</fill>
+                    <color>59FEBF17</color>
+                </PolyStyle>
+            </Style>
+            <description></description>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -66.8919388577342,-19.2910195561565,0
+                            -66.8919609860328,-19.2904703530973,0
+                            -66.8919831141829,-19.2899211500353,0
+                            -66.887699897403,-19.2874648516807,0
+                            -66.8834168091416,-19.2850084535016,0
+                            -66.8834181502461,-19.285008611733,0
+                            -66.8834194913507,-19.2850087699645,0
+                            -66.8837147006139,-19.2857666953645,0
+                            -66.8840099126101,-19.2865246202903,0
+                            -66.8879743307478,-19.2887721309871,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark><!-- chelo maniana -->
+
+        <Placemark>
+            <name>Marcial Ordoñez</name>
+            <ExtendedData>
+                <Data name="measureid">
+                    <value>4</value>
+                </Data>
+                <Data name="measuretype">
+                    <value>1</value>
+                </Data>
+                <Data name="maptype">
+                    <value>4</value>
+                </Data>
+                <Data name="unittype">
+                    <value>square meter</value>
+                </Data>
+                <Data name="units">
+                    <value>13809.24737767132</value>
+                </Data>
+                <Data name="perimeter">
+                    <value>0.0</value>
+                </Data>
+                <Data name="zoomlevel">
+                    <value>17.0</value>
+                </Data>
+                <Data name="color">
+                    <value>-15220738</value>
+                </Data>
+                <Data name="tagname">
+                    <value></value>
+                </Data>
+                <Data name="tagshow">
+                    <value>0</value>
+                </Data>
+            </ExtendedData>
+            <Style>
+                <LineStyle>
+                    <color>FF17BFFE</color>
+                    <width>5</width>
+                </LineStyle>
+                <PolyStyle>
+                    <outline>1</outline>
+                    <fill>1</fill>
+                    <color>59FEBF17</color>
+                </PolyStyle>
+            </Style>
+            <description></description>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -66.8950498849154,-19.2878502657843,0
+                            -66.8949410880146,-19.2881548555155,0
+                            -66.894832290709,-19.2884594451822,0
+                            -66.8956646120593,-19.2887809659768,0
+                            -66.8964969366789,-19.2891024830017,0
+                            -66.8966300415482,-19.2887986856877,0
+                            -66.8967631459236,-19.2884948882774,0
+                            -66.8959065137331,-19.2881725790274,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark><!-- chelo maniana -->
+
+        <Placemark>
+            <name>Marcial Ordoñez</name>
+            <ExtendedData>
+                <Data name="measureid">
+                    <value>2</value>
+                </Data>
+                <Data name="measuretype">
+                    <value>1</value>
+                </Data>
+                <Data name="maptype">
+                    <value>4</value>
+                </Data>
+                <Data name="unittype">
+                    <value>square meter</value>
+                </Data>
+                <Data name="units">
+                    <value>26367.504386939843</value>
+                </Data>
+                <Data name="perimeter">
+                    <value>0.0</value>
+                </Data>
+                <Data name="zoomlevel">
+                    <value>17.0</value>
+                </Data>
+                <Data name="color">
+                    <value>-15220738</value>
+                </Data>
+                <Data name="tagname">
+                    <value></value>
+                </Data>
+                <Data name="tagshow">
+                    <value>0</value>
+                </Data>
+            </ExtendedData>
+            <Style>
+                <LineStyle>
+                    <color>FF17BFFE</color>
+                    <width>5</width>
+                </LineStyle>
+                <PolyStyle>
+                    <outline>1</outline>
+                    <fill>1</fill>
+                    <color>59FEBF17</color>
+                </PolyStyle>
+            </Style>
+            <description></description>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -66.8938214331865,-19.2930413509776,0
+                            -66.8939853845571,-19.2916989702401,0
+                            -66.8941493332386,-19.2903565893564,0
+                            -66.8944896404746,-19.289410232778,0
+                            -66.8948299437761,-19.2884638755695,0
+                            -66.8951623697854,-19.2885971038358,0
+                            -66.8954947963357,-19.2887303315006,0
+                            -66.8946581257784,-19.290885843144,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark><!-- chelo maniana -->
+
+        <Placemark>
+            <name>Pablo Garcia</name>
+            <ExtendedData>
+                <Data name="measureid">
+                    <value>12</value>
+                </Data>
+                <Data name="measuretype">
+                    <value>1</value>
+                </Data>
+                <Data name="maptype">
+                    <value>4</value>
+                </Data>
+                <Data name="unittype">
+                    <value>square meter</value>
+                </Data>
+                <Data name="units">
+                    <value>77934.0860959475</value>
+                </Data>
+                <Data name="perimeter">
+                    <value>0.0</value>
+                </Data>
+                <Data name="zoomlevel">
+                    <value>17.855757</value>
+                </Data>
+                <Data name="color">
+                    <value>-15220738</value>
+                </Data>
+                <Data name="tagname">
+                    <value></value>
+                </Data>
+                <Data name="tagshow">
+                    <value>0</value>
+                </Data>
+            </ExtendedData>
+            <Style>
+                <LineStyle>
+                    <color>FF17BFFE</color>
+                    <width>5</width>
+                </LineStyle>
+                <PolyStyle>
+                    <outline>1</outline>
+                    <fill>1</fill>
+                    <color>59FEBF17</color>
+                </PolyStyle>
+            </Style>
+            <description></description>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -66.8943773210049,-19.2896727339155,0
+                            -66.8943394348271,-19.2897787459059,0
+                            -66.8943015486002,-19.2898847578885,0
+                            -66.8930653824989,-19.289484605635,0
+                            -66.8918292224407,-19.2890844450658,0
+                            -66.8917722255746,-19.2893010582582,0
+                            -66.8917152285576,-19.289517671433,0
+                            -66.8875336039615,-19.2871393729474,0
+                            -66.8833521008492,-19.2847609793179,0
+                            -66.8833576329091,-19.2846465777227,0
+                            -66.8833631649613,-19.2845321761274,0
+                            -66.8888701565311,-19.2871025375332,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark><!-- chelo maniana -->
+
+        <Placemark>
+            <name>Rene Montoya</name>
+            <ExtendedData>
+                <Data name="measureid">
+                    <value>3</value>
+                </Data>
+                <Data name="measuretype">
+                    <value>1</value>
+                </Data>
+                <Data name="maptype">
+                    <value>4</value>
+                </Data>
+                <Data name="unittype">
+                    <value>square meter</value>
+                </Data>
+                <Data name="units">
+                    <value>56816.91844942387</value>
+                </Data>
+                <Data name="perimeter">
+                    <value>0.0</value>
+                </Data>
+                <Data name="zoomlevel">
+                    <value>17.0</value>
+                </Data>
+                <Data name="color">
+                    <value>-15220738</value>
+                </Data>
+                <Data name="tagname">
+                    <value></value>
+                </Data>
+                <Data name="tagshow">
+                    <value>0</value>
+                </Data>
+            </ExtendedData>
+            <Style>
+                <LineStyle>
+                    <color>FF17BFFE</color>
+                    <width>5</width>
+                </LineStyle>
+                <PolyStyle>
+                    <outline>1</outline>
+                    <fill>1</fill>
+                    <color>59FEBF17</color>
+                </PolyStyle>
+            </Style>
+            <description></description>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -66.8954991549253,-19.2887319137792,0
+                            -66.8946433742726,-19.2909624234846,0
+                            -66.8937875702977,-19.2931929292041,0
+                            -66.8942049884788,-19.2934269419673,0
+                            -66.8946224078536,-19.293660953782,0
+                            -66.8955566677942,-19.2913809296294,0
+                            -66.8964909017086,-19.2891009007267,0
+                            -66.8959950277581,-19.288916407922,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark><!-- chelo maniana -->
+
+        <Placemark>
+            <name>Valentina Jallaza</name>
+            <ExtendedData>
+                <Data name="measureid">
+                    <value>10</value>
+                </Data>
+                <Data name="measuretype">
+                    <value>1</value>
+                </Data>
+                <Data name="maptype">
+                    <value>4</value>
+                </Data>
+                <Data name="unittype">
+                    <value>square meter</value>
+                </Data>
+                <Data name="units">
+                    <value>50926.59199015245</value>
+                </Data>
+                <Data name="perimeter">
+                    <value>0.0</value>
+                </Data>
+                <Data name="zoomlevel">
+                    <value>17.262812</value>
+                </Data>
+                <Data name="color">
+                    <value>-15220738</value>
+                </Data>
+                <Data name="tagname">
+                    <value></value>
+                </Data>
+                <Data name="tagshow">
+                    <value>0</value>
+                </Data>
+            </ExtendedData>
+            <Style>
+                <LineStyle>
+                    <color>FF17BFFE</color>
+                    <width>5</width>
+                </LineStyle>
+                <PolyStyle>
+                    <outline>1</outline>
+                    <fill>1</fill>
+                    <color>59FEBF17</color>
+                </PolyStyle>
+            </Style>
+            <description></description>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -66.8918996304274,-19.2920359945519,0
+                            -66.8919190765032,-19.2915271424527,0
+                            -66.8919385224581,-19.2910182903513,0
+                            -66.8919192441408,-19.2915273006773,0
+                            -66.8918999657035,-19.2920363110013,0
+                            -66.8910056140649,-19.2915659099017,0
+                            -66.8901112675667,-19.2910955044491,0
+                            -66.8891059387235,-19.2905456714869,0
+                            -66.8881006166339,-19.2899958330244,0
+                            -66.8881966733504,-19.2898148215781,0
+                            -66.8882927298546,-19.2896338100816,0
+                            -66.887821666121,-19.2893643496853,0
+                            -66.8873506039381,-19.2890948880815,0
+                            -66.8873465806174,-19.2888029578115,0
+                            -66.8873425573111,-19.2885110275414,0
+                            -66.888941815709,-19.2894043853134,0
+                            -66.8905410915613,-19.290297729167,0
+                            -66.8912398054537,-19.29066228318,0
+                            -66.8919385224581,-19.2910268345361,0
+                            -66.8919190765027,-19.291531414545,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark><!-- chelo maniana -->
+
 
 
     </Document>
