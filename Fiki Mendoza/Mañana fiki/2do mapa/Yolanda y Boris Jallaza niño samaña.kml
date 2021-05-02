@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+   <name>Yolanda y Boris Jallaza niño samaña</name>
+   <ExtendedData>
+       <Data name="measureid">
+           <value>16</value>
+       </Data>
+       <Data name="measuretype">
+           <value>1</value>
+       </Data>
+       <Data name="maptype">
+           <value>4</value>
+       </Data>
+       <Data name="unittype">
+           <value>square meter</value>
+       </Data>
+       <Data name="units">
+           <value>174763.44668609215</value>
+       </Data>
+       <Data name="perimeter">
+           <value>0.0</value>
+       </Data>
+       <Data name="zoomlevel">
+           <value>17.0</value>
+       </Data>
+       <Data name="color">
+           <value>-15220738</value>
+       </Data>
+       <Data name="tagname">
+           <value>Yola y Boris Jallaza</value>
+       </Data>
+       <Data name="tagshow">
+           <value>1</value>
+       </Data>
+   </ExtendedData>
+   <Style>
+       <LineStyle>
+           <color>FF17BFFE</color>
+           <width>5</width>
+       </LineStyle>
+       <PolyStyle>
+           <outline>1</outline>
+           <fill>1</fill>
+           <color>59FEBF17</color>
+       </PolyStyle>
+   </Style>
+   <description></description>
+   <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+-66.9081632047892,-19.3036635119995,0
+-66.9081868417515,-19.3036956293191,0
+-66.908210478723,-19.3037277466357,0
+-66.9082373008079,-19.303760338583,0
+-66.9082641229033,-19.3037929305264,0
+-66.9082725048044,-19.3038340659731,0
+-66.9082808867097,-19.3038752014194,0
+-66.9082845747461,-19.3039199757473,0
+-66.9082882627845,-19.3039647500752,0
+-66.9083273224322,-19.3040528747449,0
+-66.908366382122,-19.3041409994063,0
+-66.9083844870239,-19.3042226372533,0
+-66.9084025919437,-19.3043042750984,0
+-66.9083943776815,-19.3043617063252,0
+-66.9083861634135,-19.3044191375516,0
+-66.9083355367406,-19.3044908078757,0
+-66.9082849100232,-19.3045624781858,0
+-66.9082079642188,-19.304704236525,0
+-66.908131018281,-19.3048459948319,0
+-66.9077161157098,-19.3054908659992,0
+-66.907301209867,-19.306135736229,0
+-66.9108821337759,-19.305805267636,0
+-66.9144630432129,-19.3054747292123,0
+-66.9140920573976,-19.3042485799621,0
+-66.9137210771441,-19.3030224299624,0
+-66.9109421464121,-19.3033429920061,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

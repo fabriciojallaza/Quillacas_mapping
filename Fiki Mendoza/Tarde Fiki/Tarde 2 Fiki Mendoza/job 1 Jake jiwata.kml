@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+   <name>job 1 Jake jiwata</name>
+   <ExtendedData>
+       <Data name="measureid">
+           <value>41</value>
+       </Data>
+       <Data name="measuretype">
+           <value>1</value>
+       </Data>
+       <Data name="maptype">
+           <value>4</value>
+       </Data>
+       <Data name="unittype">
+           <value>square meter</value>
+       </Data>
+       <Data name="units">
+           <value>28347.42689114157</value>
+       </Data>
+       <Data name="perimeter">
+           <value>0.0</value>
+       </Data>
+       <Data name="zoomlevel">
+           <value>17.0</value>
+       </Data>
+       <Data name="color">
+           <value>-117737</value>
+       </Data>
+       <Data name="tagname">
+           <value>job 1</value>
+       </Data>
+       <Data name="tagshow">
+           <value>1</value>
+       </Data>
+   </ExtendedData>
+   <Style>
+       <LineStyle>
+           <color>FFFE3417</color>
+           <width>5</width>
+       </LineStyle>
+       <PolyStyle>
+           <outline>1</outline>
+           <fill>1</fill>
+           <color>591734FE</color>
+       </PolyStyle>
+   </Style>
+   <description></description>
+   <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+-66.9044228643179,-19.3061888951262,0
+-66.9026968401459,-19.3040403699342,0
+-66.9009708613157,-19.30189182852,0
+-66.9013482143527,-19.3019975165491,0
+-66.9017255678773,-19.3021032038028,0
+-66.9032173623598,-19.3039281987169,0
+-66.9047091901302,-19.3057531815124,0
+-66.9045660274148,-19.3059710383751,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

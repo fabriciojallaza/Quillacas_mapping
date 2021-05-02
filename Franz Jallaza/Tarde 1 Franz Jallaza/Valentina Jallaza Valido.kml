@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name> NOGROUP_GeoMeasure_2021-05-01-21-00-07_bmacinfotech.kml </name>
+<Style id="BMPoly">
+<LineStyle><color>ff0000ff</color><width>1.2</width></LineStyle>
+<PolyStyle><color>FF00FF00</color><fill>1</fill></PolyStyle></Style><Placemark>
+<styleUrl>#BMPoly</styleUrl>
+<name> Valentina Jallaza VALido </name><Polygon><outerBoundaryIs><LinearRing><tessellate> 1 </tessellate><coordinates>-66.90344688,-19.29263503,0 -66.90307472,-19.29323628,0 -66.89650163,-19.28919837,0 -66.89670581,-19.28859299,0 -66.90344688,-19.29263503,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document></kml>

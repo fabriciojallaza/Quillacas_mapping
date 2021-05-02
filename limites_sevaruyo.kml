@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <name>Limites Sevaruyo</name>
+        <Style id="icon-1899-0288D1-nodesc-normal">
+            <IconStyle>
+                <color>ffd18802</color>
+                <scale>1</scale>
+                <Icon>
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+                <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+            </IconStyle>
+            <LabelStyle>
+                <scale>0</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
+            </BalloonStyle>
+        </Style>
+        <Style id="icon-1899-0288D1-nodesc-highlight">
+            <IconStyle>
+                <color>ffd18802</color>
+                <scale>1</scale>
+                <Icon>
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+                <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+            </IconStyle>
+            <LabelStyle>
+                <scale>1</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
+            </BalloonStyle>
+        </Style>
+        <StyleMap id="icon-1899-0288D1-nodesc">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.722529,-19.7866258,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.722003,-19.7865580,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.721976,-19.7865367,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.721518,-19.7865138,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.720796,-19.7864604,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.719882,-19.7864347,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.719085,-19.7863027,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.718754,-19.7862124,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.718627,-19.7812167,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.715890,-19.7861501,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.715436,-19.7861332,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.713303,-19.7860653,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.713299,-19.7860875,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.712622,-19.7860058,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.713143,-19.7858636,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.715187,-19.7855252,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.717983,-19.7853833,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.719773,-19.7854087,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.720307,-19.7854362,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.717757,-19.7852488,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.720447,-19.7852772,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.711310,-19.7852500,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.722427,-19.7852046,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.722504,-19.7851480,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.722526,-19.7851126,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.722879,-19.7850516,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.722906,-19.7850516,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.723355,-19.7850071,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.723305,-19.7849830,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.723593,-19.7849337,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.724991,-19.7848415,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.727044,-19.7850487,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.727529,-19.7850167,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.728431,-19.7847587,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.728703,-19.7846987,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.729411,-19.7846649,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.730486,-19.7846474,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.731294,-19.7848302,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.731846,-19.7852315,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.732214,-19.7851763,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.733044,-19.7850646,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.733367,-19.7850005,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.729817,-19.7853540,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.724958,-19.7855352,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.724093,-19.7855665,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.728703,-19.7860691,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.728523,-19.7859309,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.726650,-19.7857649,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.723240,-19.7866297,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.723240,-19.7866297,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.723256,-19.7866702,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.723945,-19.7867321,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.724439,-19.7867855,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.725246,-19.7868704,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.725850,-19.7868960,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.726940,-19.7869535,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.727416,-19.7869705,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.728220,-19.7869567,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.722531,-19.7862209,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.731609,-19.7868877,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.732507,-19.7866677,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.733090,-19.7866170,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.733374,-19.7864439,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.732437,-19.7863058,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.732879,-19.7861756,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.733341,-19.7861440,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.733075,-19.7861258,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.733572,-19.7860384,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Puntos</name>
+            <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+            <Point>
+                <coordinates>
+                    -66.730386,-19.7861333,0
+                </coordinates>
+            </Point>
+        </Placemark>
+
+    </Document>
+</kml>

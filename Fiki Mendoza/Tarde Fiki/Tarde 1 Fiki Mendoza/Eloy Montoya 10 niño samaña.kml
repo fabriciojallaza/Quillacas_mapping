@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+   <name>Eloy Montoya 10 niño samaña</name>
+   <ExtendedData>
+       <Data name="measureid">
+           <value>33</value>
+       </Data>
+       <Data name="measuretype">
+           <value>1</value>
+       </Data>
+       <Data name="maptype">
+           <value>4</value>
+       </Data>
+       <Data name="unittype">
+           <value>square meter</value>
+       </Data>
+       <Data name="units">
+           <value>5050.881845435572</value>
+       </Data>
+       <Data name="perimeter">
+           <value>0.0</value>
+       </Data>
+       <Data name="zoomlevel">
+           <value>17.0</value>
+       </Data>
+       <Data name="color">
+           <value>-15220738</value>
+       </Data>
+       <Data name="tagname">
+           <value>Eloy Montoya 10</value>
+       </Data>
+       <Data name="tagshow">
+           <value>1</value>
+       </Data>
+   </ExtendedData>
+   <Style>
+       <LineStyle>
+           <color>FF17BFFE</color>
+           <width>5</width>
+       </LineStyle>
+       <PolyStyle>
+           <outline>1</outline>
+           <fill>1</fill>
+           <color>59FEBF17</color>
+       </PolyStyle>
+   </Style>
+   <description></description>
+   <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+-66.9073860347271,-19.3099207330974,0
+-66.9072633237331,-19.3100118605315,0
+-66.9071406126022,-19.3101029878835,0
+-66.9067625881588,-19.3098389400438,0
+-66.9063845649362,-19.3095748914258,0
+-66.9060336975685,-19.3091550074408,0
+-66.9056828320026,-19.3087351227854,0
+-66.9065344302777,-19.3093279299164,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

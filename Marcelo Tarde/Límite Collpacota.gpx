@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Garmin Explore App" xmlns="http://www.topografix.com/GPX/1/1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd">
+    <metadata>
+        <name>
+            Límite Collpacota.gpx
+        </name>
+        <link href="http://www.garmin.com">
+            <text>
+                Garmin International
+            </text>
+        </link>
+        <time>
+            2021-05-01T18:29:32.686Z
+        </time>
+    </metadata>
+    <wpt
+            lat="-19.24282545223832" lon="-66.92548180930316"
+    ><time>
+        2021-05-01T14:29:41.000Z
+    </time>
+        <name>
+            0001 LLOKESA
+        </name>
+        <sym>
+            Flag, Blue</sym></wpt><wpt lat="-19.245305992662907" lon="-66.92160216160119"><time>2021-05-01T14:36:57.000Z</time><name> 0002 TAIPIKARA</name><sym>Flag, Blue</sym></wpt><wpt lat="-19.25271039828658" lon="-66.92093655467033"><time>2021-05-01T14:45:46.000Z</time><name>0003 JUCHUYKJOKO</name><sym>Flag, Blue</sym></wpt><wpt lat="-19.252249896526337" lon="-66.91537021659315"><time>2021-05-01T14:54:49.000Z</time><name>0004 LOMA</name><sym>Flag, Blue</sym></wpt><wpt lat="-19.25137742422521" lon="-66.90974520519376"><time>2021-05-01T15:04:00.000Z</time><name>0005 DIVISION COLL Y ISAL</name><sym>Flag, Blue</sym></wpt><wpt lat="-19.252340840175748" lon="-66.90369942225516"><time>2021-05-01T15:18:16.000Z</time><name>0006 CHURO</name><sym>Flag, Blue</sym></wpt><wpt lat="-19.254522062838078" lon="-66.88823749311268"><time>2021-05-01T15:46:00.000Z</time><name>0007 WAKAÑKARA</name><sym>Flag, Blue</sym></wpt><wpt lat="-19.259163541719317" lon="-66.88786508515477"><time>2021-05-01T16:01:11.000Z</time><name>0008 JOJCHILA Y CRUZ LAKANA</name><sym>Flag, Blue</sym></wpt><wpt lat="-19.264848064631224" lon="-66.8855307251215"><time>2021-05-01T16:16:12.000Z</time><name>0009 TRIPARTITA MOJON CHOLITA</name><sym>Flag, Blue</sym></wpt></gpx>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+   <name>Francisco Montoya 4 Jake jiwata</name>
+   <ExtendedData>
+       <Data name="measureid">
+           <value>49</value>
+       </Data>
+       <Data name="measuretype">
+           <value>1</value>
+       </Data>
+       <Data name="maptype">
+           <value>4</value>
+       </Data>
+       <Data name="unittype">
+           <value>square meter</value>
+       </Data>
+       <Data name="units">
+           <value>66729.17119379318</value>
+       </Data>
+       <Data name="perimeter">
+           <value>0.0</value>
+       </Data>
+       <Data name="zoomlevel">
+           <value>17.0</value>
+       </Data>
+       <Data name="color">
+           <value>-117737</value>
+       </Data>
+       <Data name="tagname">
+           <value>Francisco Montoya 4</value>
+       </Data>
+       <Data name="tagshow">
+           <value>1</value>
+       </Data>
+   </ExtendedData>
+   <Style>
+       <LineStyle>
+           <color>FFFE3417</color>
+           <width>5</width>
+       </LineStyle>
+       <PolyStyle>
+           <outline>1</outline>
+           <fill>1</fill>
+           <color>591734FE</color>
+       </PolyStyle>
+   </Style>
+   <description></description>
+   <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+-66.9070065021515,-19.3011624551252,0
+-66.9039799481877,-19.3002777323009,0
+-66.9009534269571,-19.2993929596058,0
+-66.9012035436131,-19.298957702136,0
+-66.9014536589384,-19.2985224443256,0
+-66.9042117939082,-19.2993581703148,0
+-66.9069699570537,-19.3001938548878,0
+-66.9069882295485,-19.3006781550074,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>
